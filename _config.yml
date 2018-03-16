@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   #name             : "Prateek Bhagdev"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Nikesh_Arora_ys-1024x9001.jpg"
   bio              : "Our aspirations are our possibilities."
   location         : "Pune, India"
   email            :

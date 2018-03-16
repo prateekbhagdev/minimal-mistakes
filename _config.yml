@@ -99,7 +99,7 @@ analytics:
 author:
   #name             : "Prateek Bhagdev"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Our aspirations are our possibilities"
+  bio              : "Our aspirations are our possibilities."
   location         : "Pune, India"
   email            :
   uri              :

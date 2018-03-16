@@ -97,8 +97,8 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Your Name"
-  #avatar           : "/assets/images/bio-photo.jpg"
+  name             : "Your Name"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Pune, India"
   email            :

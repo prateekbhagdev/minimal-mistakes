@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prateek Bhagdev"
+  #name             : "Prateek Bhagdev"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Pune, India"

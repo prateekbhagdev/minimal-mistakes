@@ -1,18 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-toc: true
 ---
 
 I am Prateek Bhagdev. I come from Shahdol, a small town of Madhya Pradesh, India. I completed my bachelors degree in Computer Science & Engineering & Yeah... I dropped out of Electronics & Communication Engineering prior to that. I graduated as PGD in Advance Computing from Centre for Development of Advanced Computing & PGD in Information Technology Management from Symbiosis Centre for Management & Human Resource Development.

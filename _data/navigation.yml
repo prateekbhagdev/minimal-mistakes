@@ -6,7 +6,7 @@ main:
     url: /year-archive/
   - title: "Case studies"
     url: /collection-archive/
-  - title: "Blog"
-    url: /collection-archive/
+  #- title: "Blog"
+  #  url: /collection-archive/
   - title: "Contact"
     url: /sitemap/

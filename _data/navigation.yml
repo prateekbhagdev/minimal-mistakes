@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /pb/docs/_pages/about.md/
+    url: /about/
   - title: "Resume"
     url: /year-archive/
   - title: "Case studies"

@@ -10,4 +10,4 @@ I work in the fields of Product Management, Design, Technology, HCI & Human Fact
 
 I love to create amazing products with emphasis on design & technology & also possess keen interest for Gesture Interfaces, Touchable Technology and Mobility. My key skills include product strategy & roadmap, user profiling, persona identification, user journeys, product/business objectives, ideation, product prototyping & testing, research, analysis, designing, building & commercialising of products & solutions for different platforms such as Zero Interfaces, Wearables, Mobile Devices & Desktop etc.
 
-Bragging rights: I’ve been almost shot at while writing code logic in a 120-degree tent, I’ve made ice-creams out of Water Only, and I’m a pretty good cook.
+Bragging rights: I’ve been almost shot at while writing code logic in a 120-degree tent, I’ve made ice-creams out of Water Only, and I’m a pretty good cook :smile:

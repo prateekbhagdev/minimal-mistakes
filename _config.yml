@@ -20,9 +20,9 @@ title                    : "Prateek Bhagdev"
 title_separator          : "-"
 name                     : "Prateek Bhagdev"
 description              : "My website."
-url                      : "https://prateekbhagdev.github.io/pb"
-baseurl                  : "/home"
-repository               : "prateekbhagdev/pb"
+url                      : #"https://prateekbhagdev.github.io/pb"
+baseurl                  : #"/home"
+repository               : #"prateekbhagdev/pb"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -9,19 +9,19 @@ Download Resume
 Product Management + Experience Design
 
 <h3>Education</h3>
-Post Graduate Diploma in Information Technology Management from Symbiosis International University   
-2013; Symbiosis Centre for Management & Human Resource Development
+Post Graduate Diploma in Information Technology Management from Symbiosis International University  
+2013; Symbiosis Centre for Management & Human Resource Development 
 
-Post Graduate Diploma in Advanced Computing from Centre for Development of Advanced Computing (C-DAC) 
+Post Graduate Diploma in Advanced Computing from Centre for Development of Advanced Computing (C-DAC)  
 2011; Institute of Emerging Technologies 
 
-Bachelor of Engineering (Computer Science & Engg.) from Rajiv Gandhi Technological University (RGPV) 
+Bachelor of Engineering (Computer Science & Engg.) from Rajiv Gandhi Technological University (RGPV)  
 2010; Radharaman Institute of Technology & Science 
 
-H.S.C. (PCM) from Madhya Pradesh Board 
+H.S.C. (PCM) from Madhya Pradesh Board  
 2006; R.H.S.S. Shahdol 
 
-S.S.C. from Madhya Pradesh Board 
+S.S.C. from Madhya Pradesh Board  
 2004; G.S.C.S. Shahdol 
 
 Work Experience: 

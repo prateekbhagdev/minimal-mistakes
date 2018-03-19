@@ -8,7 +8,8 @@ Download Resume
 
 Product Management + Experience Design
 
-Education: 
+Education:
+
 Post Graduate Diploma in Information Technology Management from Symbiosis International University 
 2013; Symbiosis Centre for Management & Human Resource Development 
 

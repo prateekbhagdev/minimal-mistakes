@@ -24,42 +24,42 @@ H.S.C. (PCM) from Madhya Pradesh Board
 S.S.C. from Madhya Pradesh Board  
 2004; G.S.C.S. Shahdol 
 
-Work Experience: 
-Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager 
+<h3>Work Experience</h3>
+Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
 November 2015 to current, Products, User Experience, Business Requirements; Pune – India 
 
-Founder at Zipplis 
+Founder at Zipplis  
 November 2015 to February 2017, Product Management & Strategy, User Experience 
 
-Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects) 
+Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects)  
 March 2015 to October 2015, Product & Experience Strategy & Consulting; Pune – India 
 
-Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business Analyst 
+Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business Analyst  
 November 2013 to March 2015, Product Management Capability; Pune – India 
 
-Business Analyst at Cybage Software, Designation – Software Engineer 
+Business Analyst at Cybage Software, Designation – Software Engineer  
 February 2011 to October 2013, Consulting & Development of Product & Applications; Pune – India 
 
-Certifications: 
-Certified Product Manager (CPM) 
+<h3>Certifications</h3>
+Certified Product Manager (CPM)  
 from Association of International Product Marketing & Management, United States 
 
-Certified Scrum Product Owner (CSPO) 
+Certified Scrum Product Owner (CSPO)  
 from Scrum Alliance, United States 
 
-Certified Usability Analyst (CUA) 
+Certified Usability Analyst (CUA)  
 from Human Factors International, United States 
 
-Certified ScrumMaster (CSM) 
+Certified ScrumMaster (CSM)  
 from Scrum Alliance, United States 
 
-Certified Payment-Card Industry Security Implementer (CPISI) 
+Certified Payment-Card Industry Security Implementer (CPISI)  
 PCI DSS from SISA, United States 
 
-Extra-curricular & Personality Traits: 
-Mentored new team members & made them understand different tools. 
-Managed many cultural events at college level and in Cybage, ASPL & Vodafone. 
-Possess better interpersonal & communication skills. 
-Having Quick and Good Learning Ability. 
-Enthusiastic about working over future technologies. 
-Bronze Medalist in Annual State Championships for Table Tennis for 3 consecutive years.
+<h3>Extra-curricular & Personality Traits</h3>
+Mentored new team members & made them understand different tools.  
+Managed many cultural events at college level and in Cybage, ASPL & Vodafone.  
+Possess better interpersonal & communication skills.  
+Having Quick and Good Learning Ability.  
+Enthusiastic about working over future technologies.  
+Bronze Medalist in Annual State Championships for Table Tennis for 3 consecutive years. 

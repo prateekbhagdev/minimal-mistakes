@@ -4,7 +4,7 @@ title: "Resume"
 classes: wide
 ---
 
-[Download Resume](#link){: .btn .btn--inverse .btn--small}
+[Download Resume](#link){: .btn .btn--small}
 
 Product Management + Experience Design
 

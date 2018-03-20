@@ -4,7 +4,7 @@ title: "Resume"
 classes: wide
 ---
 
-[Download Resume](#link){: .notice--primary}
+<a href="http://apple.com" title="Download">Download Resume</a>
 
 Product Management + Experience Design
 

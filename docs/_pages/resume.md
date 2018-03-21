@@ -25,8 +25,11 @@ S.S.C. from Madhya Pradesh Board
 2004; G.S.C.S. Shahdol 
 
 <h3>Work Experience</h3>
+Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
+January 2018 to current, Products, Research & User Experience, Business Requirements; Pune – India 
+
 Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
-November 2015 to current, Products, User Experience, Business Requirements; Pune – India 
+November 2015 to December 2017, Products, User Experience, Business Requirements; Pune – India 
 
 Founder at Zipplis  
 November 2015 to February 2017, Product Management & Strategy, User Experience 

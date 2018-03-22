@@ -1,1 +1,4 @@
-
+---
+permalink: /contact/
+classes: wide
+---

@@ -13,4 +13,7 @@ Email: <font size="5">prateekbhagdev@gmail.com</font>
 Email: <font size="5"><a href="mailto:prateekbhagdev@gmail.com">prateekbhagdev@gmail.com</a></font>
 {: .notice--info}
 
+Email: <font size="5"><a href="mailto:prateekbhagdev@gmail.com" class="nounderline">prateekbhagdev@gmail.com</a></font>
+{: .notice--info}
+
 <a href="mailto:prateekbhagdev@gmail.com">prateekbhagdev@gmail.com</a>

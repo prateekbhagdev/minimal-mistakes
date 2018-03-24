@@ -7,16 +7,8 @@ header:
 author_profile: false
 ---
 
-Email: <font size="5">prateekbhagdev@gmail.com</font>
-{: .notice--info}
-
-Email: <font size="5"><a href="mailto:prateekbhagdev@gmail.com">prateekbhagdev@gmail.com</a></font>
-{: .notice--info}
-
-Email: <font size="5"><a href="mailto:prateekbhagdev@gmail.com" style="text-decoration:none">prateekbhagdev@gmail.com</a></font>
-{: .notice--info}
-
 <i class="fas fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;<font size="5"><a href="mailto:prateekbhagdev@gmail.com" style="text-decoration:none">prateekbhagdev@gmail.com</a></font>
 {: .notice--info}
 
-<a href="mailto:prateekbhagdev@gmail.com">prateekbhagdev@gmail.com</a>
+<i class="fas fa-phone fa-lg"></i>&nbsp;&nbsp;&nbsp;<font size="5">+91 988 100 8224</font>
+{: .notice--info}

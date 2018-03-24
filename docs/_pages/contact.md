@@ -7,5 +7,5 @@ header:
 author_profile: false
 ---
 
-Email: prateekbhagdev@gmail.com
+Email: <h3>prateekbhagdev@gmail.com</h3>
 {: .notice--info}

@@ -5,7 +5,7 @@ classes: wide
 ---
 
 <a href="http://apple.com" title="Download">Download Resume</a>  
-<i class="fas fa-cloud-download-alt fa-lg"></i>&nbsp;&nbsp;&nbsp;<a href="http://apple.com" title="Download" style="text-decoration:none">Download Resume</a>
+<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="http://apple.com" title="Download" style="text-decoration:none">Download Resume</a>
 
 Product Management + Experience Design
 

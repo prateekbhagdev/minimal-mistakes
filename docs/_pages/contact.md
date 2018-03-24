@@ -11,4 +11,4 @@ author_profile: false
 {: .notice--info}
 
 <i class="fas fa-phone fa-lg"></i>&nbsp;&nbsp;&nbsp;<font size="5">+91 988 100 8224</font>
-{: .notice--info}
+{: .notice--success}

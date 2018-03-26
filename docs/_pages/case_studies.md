@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Case studies
 layout: collection
 permalink: /portfolio/
 collection: portfolio

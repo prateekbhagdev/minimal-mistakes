@@ -3,6 +3,7 @@ title: Case studies
 layout: collection
 permalink: /case_studies/
 collection: portfolio
+author_profile: true
 ---
 
 <div class="grid__wrapper">

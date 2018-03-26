@@ -1,6 +1,6 @@
 ---
 title: Case studies
-layout: collection
+layout: archive
 permalink: /case_studies/
 author_profile: true
 collection: portfolio

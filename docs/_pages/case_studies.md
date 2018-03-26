@@ -1,7 +1,7 @@
 ---
 title: Case studies
 layout: collection
-permalink: /portfolio/
+permalink: /case_studies/
 collection: portfolio
 entries_layout: grid
 classes: wide

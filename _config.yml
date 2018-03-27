@@ -283,7 +283,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: foo
     values:
       layout: single
       author_profile: true

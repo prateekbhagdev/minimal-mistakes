@@ -134,7 +134,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _portfolio
+  #- _portfolio
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -285,6 +285,6 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: collection
       author_profile: true
       share: true

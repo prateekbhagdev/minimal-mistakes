@@ -2,8 +2,7 @@
 title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/helu.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: /assets/helu.jpg
 sidebar:
   - title: "Role"
     text: "Designer, Front-End Developer"

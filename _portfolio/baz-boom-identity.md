@@ -4,6 +4,7 @@ excerpt: "Baz Boom design system including logo mark, website design, and brandi
 header:
   teaser: /assets/helu.jpg
 sidebar:
+  - author_profile: "false"
   - title: "Role"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"

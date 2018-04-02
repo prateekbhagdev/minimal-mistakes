@@ -4,7 +4,7 @@ layout: collection
 permalink: /case_studies/
 author_profile: true
 collection: portfolio
-entries_layout: grid
+entries_layout: list
 classes: wide
 ---
 

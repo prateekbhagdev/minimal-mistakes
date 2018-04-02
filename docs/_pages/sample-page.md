@@ -7,7 +7,7 @@ layout: single
 
 luka
 {% for image in site.static_files %}
-  {% if image.path contains 'assets/images/gallery-1' %}
+  {% if image.path contains 'docs/assets/images' %}
     {% unless image.path contains '-th.' %}
       <a href="{{ image.path }}">
         <img src="{{ image.basename | append: '-th' | append: image.extname }}" alt="">

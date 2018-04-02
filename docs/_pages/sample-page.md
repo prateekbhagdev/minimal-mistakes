@@ -1,7 +1,7 @@
 ---
 title: "Sample Page"
 permalink: /sample-page/
-layout: collection
+layout: single
 collection: recipes
 ---
 

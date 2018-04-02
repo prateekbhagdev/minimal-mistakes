@@ -2,7 +2,7 @@
 title: "Sample Page"
 permalink: /sample-page/
 layout: single
-collection: recipes
+<!--collection: recipes-->
 ---
 
 luka

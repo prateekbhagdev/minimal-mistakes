@@ -292,3 +292,8 @@ defaults:
       classes: wide
       author_profile: false
       share: true
+  # _images
+  - scope:
+      path: "docs/assets/images"
+    values:
+      image: true

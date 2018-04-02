@@ -286,5 +286,6 @@ defaults:
       type: portfolio
     values:
       layout: single
+      classes: wide
       author_profile: false
       share: true

@@ -7,7 +7,11 @@ layout: single
 
 luka
 {% for image in site.static_files %}
-  {% if image.path contains 'docs/assets/images' %}
-    <img src="{{ image.path }}" alt="">
+  {% if image.path contains 'assets/images/gallery-1' %}
+    {% unless image.path contains '-th.' %}
+      <a href="{{ image.path }}">
+        <img src="{{ image.basename | append: '-th' | append: image.extname }}" alt="">
+      </a>
+    {% endunless %}
   {% endif %}
 {% endfor %}

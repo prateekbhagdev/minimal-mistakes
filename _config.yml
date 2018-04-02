@@ -192,6 +192,9 @@ collections:
   portfolio:
     output: true
     permalink: /case_studies/:path/
+  recipes:
+    output: true
+    permalink: /image/:path/
 
 # Sass/SCSS
 sass:

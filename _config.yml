@@ -191,7 +191,7 @@ kramdown:
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /case_studies/:path/
 
 # Sass/SCSS
 sass:

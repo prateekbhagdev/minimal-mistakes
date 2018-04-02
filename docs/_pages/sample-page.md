@@ -1,8 +1,8 @@
 ---
 title: "Sample Page"
 permalink: /sample-page/
-layout: single
-<!--collection: recipes-->
+<!--layout: single
+collection: recipes-->
 ---
 
 luka

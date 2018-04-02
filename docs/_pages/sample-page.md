@@ -6,8 +6,7 @@ collection: recipes
 ---
 
 luka
-{% for image in site.static_files %}
-    {% if image.path contains 'docs/assets/images' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-    {% endif %}
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
 {% endfor %}

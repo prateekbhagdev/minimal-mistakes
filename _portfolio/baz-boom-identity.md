@@ -15,8 +15,8 @@ gallery:
   - url: docs/assets/images/unsplash-gallery-image-2.jpg
     image_path: docs/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: docs/assets/images/unsplash-gallery-image-3.jpg
+    image_path: docs/assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
 

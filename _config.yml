@@ -291,7 +291,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      share: true
+      share: false
   # _images
   - scope:
       path: "docs/assets/images"

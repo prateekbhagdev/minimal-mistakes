@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
+  - title: "Blog"
+    url: /blog/
   - title: "Case studies"
     url: /case_studies/
   #- title: "Blog"

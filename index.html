@@ -1,11 +1,38 @@
 ---
-layout: home
+layout: default
+title: My Blog
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 <!--
+---
 author_profile: true
 classes: wide
--->
 ---
-<!--
 <h1>About</h1>
 <p>
 I am Prateek Bhagdev. I come from Shahdol, a small town of Madhya Pradesh, India. I completed my bachelors degree in Computer Science & Engineering & Yeah... I dropped out of Electronics & Communication Engineering prior to that. I graduated as PGD in Advance Computing from Centre for Development of Advanced Computing & PGD in Information Technology Management from Symbiosis Centre for Management & Human Resource Development.

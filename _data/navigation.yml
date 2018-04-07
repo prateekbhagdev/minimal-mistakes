@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Blog"
-    url: /blog/
+    url: /blog/index/
   - title: "Case studies"
     url: /case_studies/
   #- title: "Blog"

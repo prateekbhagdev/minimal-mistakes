@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 header:
   image: /assets/pb_HDR.jpg
-  caption: "Abu Dhabi Skyline"
+  caption: "Abu Dhabi skyline"
 author_profile: false
 ---
 

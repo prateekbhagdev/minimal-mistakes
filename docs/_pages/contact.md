@@ -7,6 +7,8 @@ header:
 author_profile: false
 ---
 
+<img src="/assets/pb_HDR.jpg" alt="Abu Dhabi Skyline">
+
 <i class="fas fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;<font size="4"><a href="mailto:prateekbhagdev@gmail.com" style="text-decoration:none">prateekbhagdev@gmail.com</a></font>
 {: .notice--info}
 

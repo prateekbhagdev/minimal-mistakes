@@ -62,9 +62,9 @@ search                   : true
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : 2LSD4EUGEM # YOUR_APPLICATION_ID
+  index_name             : dev_PB # YOUR_INDEX_NAME
+  search_only_api_key    : f2cb25f6e915752fc73233113bca12c2 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 
 # SEO Related

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Who am I"
+title: "Knowing who am I"
 classes: wide
 ---
 

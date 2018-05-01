@@ -12,5 +12,5 @@ main:
   #  url: /collection-archive/
   - title: "Contact"
     url: /contact/
-  - title: "Recipes"
-    url: /sample-page/
+  #- title: "Recipes"
+  #  url: /sample-page/

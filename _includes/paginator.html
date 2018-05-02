@@ -21,8 +21,8 @@
     {% endif %}
 
     {% assign page_start = 2 %}
-    {% if paginator.page > 3 %}
-    <!--  {% assign page_start = paginator.page | minus: 2 %} -->
+    {% if paginator.page > 4 %}
+      {% assign page_start = paginator.page | minus: 2 %} 
       {% comment %} Ellipsis for truncated links {% endcomment %}
       <li><a href="#" class="disabled">&hellip;</a></li>
     {% endif %}
@@ -35,7 +35,7 @@
 
     {% for index in (page_start..page_end) %}
       {% if index == paginator.page %}
-        <li><a href="{{ site.paginate_path | replace: ':num', index | replace: '//', '/' | relative_url }}" class="disabled current">{{ index }}</a></li>
+       <!-- <li><a href="{{ site.paginate_path | replace: ':num', index | replace: '//', '/' | relative_url }}" class="disabled current">{{ index }}</a></li> -->
       {% else %}
         {% comment %} Distance from current page and this link {% endcomment %}
         {% assign dist = paginator.page | minus: index %}

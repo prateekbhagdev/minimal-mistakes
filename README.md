@@ -7,7 +7,7 @@
 Flexible two-column site. Clean & minimal :smile:.  
 Usage: Hosting of personal site, blog, portfolio on GitHub or self-hosting on own server.
 
-## Notable Features
+## Facets
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.

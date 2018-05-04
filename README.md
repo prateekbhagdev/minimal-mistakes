@@ -4,7 +4,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/prateekbhagdev)
 
-Flexible two-column site. Clean & minimal :smile:.
+Flexible two-column site. Clean & minimal :smile:.  
 Usage: Hosting of personal site, blog, portfolio on GitHub or self-hosting on own server.
 
 ## Notable Features
@@ -24,7 +24,7 @@ Usage: Hosting of personal site, blog, portfolio on GitHub or self-hosting on ow
 
 Forking/directly copying all of the theme files into your project.
 
----
+
 
 ## Credits
 

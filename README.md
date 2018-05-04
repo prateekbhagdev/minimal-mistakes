@@ -33,7 +33,7 @@ Forking/directly copying all of the theme files into your project.
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fontawesome.io/)
 
-**Michael Rose**
+### Michael Rose
 
 - <https://mademistakes.com>
 - <https://twitter.com/mmistakes>
@@ -50,7 +50,7 @@ Forking/directly copying all of the theme files into your project.
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [Lunr](http://lunrjs.com)
 
----
+
 
 ## License
 

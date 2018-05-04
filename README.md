@@ -7,10 +7,6 @@
 
 This is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. Clean & minimal :smile:.
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
-
-![layout examples](screenshot-layouts.png)
-
 ## Notable Features
 
 - Bundled as a "theme gem" for easier install/upgrading.

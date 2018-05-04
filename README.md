@@ -4,7 +4,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/prateekbhagdev)
 
-This is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. Clean & minimal :smile:.
+This is a flexible two-column site. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. Clean & minimal :smile:.
 
 ## Notable Features
 

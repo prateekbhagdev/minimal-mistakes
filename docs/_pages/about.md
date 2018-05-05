@@ -2,6 +2,9 @@
 permalink: /about/
 title: "Knowing who am I"
 classes: wide
+sidebar:
+  - title: "I follow"
+    text: "Motorsports & profoundly The Formula 1 :car:"
 ---
 
 I am Prateek Bhagdev. I come from Shahdol, a small town in India. I completed my bachelors degree in Computer Science & Engineering & Yeah... I dropped out of Electronics & Communication Engineering prior to that. I graduated as PGD in Advance Computing from Centre for Development of Advanced Computing & PGD in Information Technology Management from Symbiosis Centre for Management & Human Resource Development.

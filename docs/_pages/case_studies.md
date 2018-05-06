@@ -2,7 +2,7 @@
 title: Case studies
 layout: collection
 permalink: /case_studies/
-author_profile: false
+author_profile: true
 collection: portfolio
 entries_layout: list
 classes: wide

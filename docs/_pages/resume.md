@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
-author_profile: false
+author_profile: true
 classes: wide
 ---
 

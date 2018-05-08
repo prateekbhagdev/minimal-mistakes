@@ -95,7 +95,7 @@
       &.current,
       &.current.disabled {
         color: #fff;
-        <!-- background: $primary-color; -->
+        /* background: $primary-color; */
         background: $my-green;
       }
 
@@ -204,7 +204,8 @@
     border: 0;
     outline: none;
     color: #fff;
-    background-color: $primary-color;
+    /* background-color: $primary-color; */
+    background-color: $my-green;
     cursor: pointer;
   }
 

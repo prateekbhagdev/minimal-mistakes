@@ -57,7 +57,7 @@ from Human Factors International, United States
 Certified ScrumMaster (CSM)  
 from Scrum Alliance, United States 
 
-Certified Payment-Card Industry Security Implementer (CPISI)  
+Certified Payment-card Industry Security Implementer (CPISI)  
 PCI DSS from SISA, United States 
 
 <h3>Extra-curricular & Personality Traits</h3>

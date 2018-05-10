@@ -13,3 +13,6 @@ I love to help create compelling products with emphasis on design & technology. 
 I follow motor sports & profoundly the Formula 1 :rocket:
 
 Bragging rights: I’ve been almost shot at while writing a code logic in a 120-degree tent, I’ve made ice-creams out of Water Only, and I’m a pretty good cook :smile:
+
+<h3>Tweets by <a href="https://twitter.com/PrateekBhagdev" style="text-decoration:none; color:#2DC14F">@PrateekBhagdev</a></h3>
+<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/PrateekBhagdev/timelines/994638025958178816?ref_src=twsrc%5Etfw">PrateekBhagdev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

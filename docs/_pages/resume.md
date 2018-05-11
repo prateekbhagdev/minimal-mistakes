@@ -27,10 +27,10 @@ S.S.C. from Madhya Pradesh Board
 
 <h3>Work Experience</h3>
 Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
-January 2018 to current, Product Strategy, Research & User Experience Analysis; Pune – India 
+January 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
 
 Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
-November 2015 to December 2017, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+November 2015 to December 2017, Product Management, Research & User Experience Analysis; Pune – India 
 
 Founder at Zipplis  
 November 2015 to February 2017, Product Management & Strategy, Experience Design 

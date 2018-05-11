@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="http://apple.com" title="Download" style="text-decoration:none; color:#2DC14F">Download resume</a>
+<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="http://apple.com" title="Download resume" style="text-decoration:none; color:#2DC14F">Download resume</a>
 
 Product Management + Experience Design
 
@@ -27,13 +27,13 @@ S.S.C. from Madhya Pradesh Board
 
 <h3>Work Experience</h3>
 Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
-January 2018 to current, Products, Research & User Experience, Business Requirements; Pune – India 
+January 2018 to current, Product Strategy, Research & User Experience Analysis; Pune – India 
 
 Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
-November 2015 to December 2017, Products, User Experience, Business Requirements; Pune – India 
+November 2015 to December 2017, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
 
 Founder at Zipplis  
-November 2015 to February 2017, Product Management & Strategy, User Experience 
+November 2015 to February 2017, Product Management & Strategy, Experience Design 
 
 Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects)  
 March 2015 to October 2015, Product & Experience Strategy & Consulting; Pune – India 
@@ -42,7 +42,7 @@ Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business An
 November 2013 to March 2015, Product Management Capability; Pune – India 
 
 Business Analyst at Cybage Software, Designation – Software Engineer  
-February 2011 to October 2013, Consulting & Development of Product & Applications; Pune – India 
+February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
 
 <h3>Certifications</h3>
 Certified Product Manager (CPM)  

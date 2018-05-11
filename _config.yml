@@ -191,10 +191,13 @@ kramdown:
 collections:
   portfolio:
     output: true
-    permalink: /case_studies/:path/
+    permalink: /portfolio/:path/
   recipes:
     output: true
-    permalink: /image/:path/
+    permalink: /recipes/:path/
+  case-studies:
+    output: true
+    permalink: /case-studies/:path/
 
 # Sass/SCSS
 sass:
@@ -287,6 +290,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      share: false
+  # _case-studies
+  - scope:
+      path: ""
+      type: case-studies
     values:
       layout: single
       classes: wide

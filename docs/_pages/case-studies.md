@@ -1,9 +1,9 @@
 ---
 title: Case studies
 layout: collection
-permalink: /case_studies/
+permalink: /case-studies/
 author_profile: true
-collection: portfolio
-entries_layout: list
+collection: case-studies
+entries_layout: grid
 classes: wide
 ---

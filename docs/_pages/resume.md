@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="http://apple.com" title="Download resume" style="text-decoration:none; color:#2DC14F">Download resume</a>
+<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/0Bxv-W3aFgWEDWnozYjItR2w5YTA/view?usp=sharing" title="Download resume" style="text-decoration:none; color:#2DC14F">Download resume</a>
 
 Product Management + Experience Design
 

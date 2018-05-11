@@ -7,7 +7,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Case studies"
-    url: /case_studies/
+    url: /case-studies/
   #- title: "Blog"
   #  url: /collection-archive/
   - title: "Contact"

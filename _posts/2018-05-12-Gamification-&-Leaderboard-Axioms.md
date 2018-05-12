@@ -40,7 +40,6 @@ The axioms mentioned below are based on my multiple experiences with quite a lot
 
 <figure>
 	<a href="/assets/images/gs.jpeg"><img src="/assets/images/gs.jpeg"></a>
-	<figcaption><a title="Gamification Strategy">gamification strategy</a></figcaption>
+	<figcaption><a>Gamification Strategy</a></figcaption>
 </figure>
-
 Above is one of a better examples of outlined gamification strategy I created while working over one of the products.

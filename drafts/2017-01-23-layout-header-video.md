@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Video"
+search: false
 header:
   video:
     id: XsxDH4HcOWA

@@ -5,15 +5,15 @@ header:
   image: /assets/images/FH1.png
   teaser: /assets/images/FH1.png
 gallery1:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/ph1.png
+    image_path: assets/images/ph1.png
+    alt: "Ideation Phase 1"
+  - url: /assets/images/ph2.png
+    image_path: assets/images/ph2.png
+    alt: "Ideation Phase 2"
+  - url: /assets/images/ph3.png
+    image_path: assets/images/ph3.png
+    alt: "Ideation Phase 3"
 gallery2:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

@@ -4,7 +4,17 @@ excerpt: "To help patients do certain tasks related to consultation drawn for po
 header:
   image: /assets/images/FH1.png
   teaser: /assets/images/FH1.png
-gallery:
+gallery1:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+gallery2:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -19,7 +29,7 @@ gallery:
 Florida Hospital is an acute-care, not-for-profit healthcare organization based in Orlando, Florida. With 24 distinct hospital campuses from the east coast to the west coast of Central Florida, the organization is owned and operated by Adventist Health System, a part of the worldwide organization of the Seventh-day Adventist Church. Florida Hospital is ranked nationally in 8 adult specialties and is also high-performing in 4 adult specialties. The main purpose of the Florida Hospital group is medical emergencies and in-patient care.
 
 <h2>Ideation</h2>
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery1" caption="Progress around various phases" %}
 <h4>Phase I</h4>
 The main idea behind creation of this app was to help user do certain tasks related to itinerary drawn for post treatment follow up care, generate health reports and to view some other health related suggestions on the flick of a wrist.	
 We have designed the app in such a way that user could perform various important tasks in a minimalistic way, since its difficult to have intense interactions with smaller screens.
@@ -34,7 +44,7 @@ Notifications could play a big role when talk about reminding the user to have &
 Users can take actions on the notifications, which in turn will feed hospital intelligence systems with data of user behavior at various instances. This data could also be utilized while creation of reports for those users/patients. 
 
 <h2>Key points</h2>
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery2" %}
 <h4>Navigation</h4>
 - Appointments
 - Reports

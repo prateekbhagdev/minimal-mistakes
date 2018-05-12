@@ -1,15 +1,9 @@
 ---
 title: "Florida Hospital Apple Watch App"
+excerpt: "To help patients do certain tasks related to consultation drawn for post treatment follow up care, generate health reports and to view some other health related suggestions on the flick of a wrist."
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -21,8 +15,9 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
+<h2>About Florida Hospital</h2>
+Florida Hospital is an acute-care, not-for-profit healthcare organization based in Orlando, Florida. With 24 distinct hospital campuses from the east coast to the west coast of Central Florida, the organization is owned and operated by Adventist Health System, a part of the worldwide organization of the Seventh-day Adventist Church. Florida Hospital is ranked nationally in 8 adult specialties and is also high-performing in 4 adult specialties. The main purpose of the Florida Hospital group is medical emergencies and in-patient care.
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 

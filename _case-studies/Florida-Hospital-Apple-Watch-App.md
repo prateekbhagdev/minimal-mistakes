@@ -2,8 +2,8 @@
 title: "Florida Hospital Apple Watch App"
 excerpt: "To help patients do certain tasks related to consultation drawn for post treatment follow up care, generate health reports and to view some other health related suggestions on the flick of a wrist."
 header:
-  image: /assets/images/fh1.png
-  teaser: /assets/images/fh1.png
+  image: /assets/images/FH1.png
+  teaser: /assets/images/FH1.png
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

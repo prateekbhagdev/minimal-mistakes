@@ -1,9 +1,9 @@
 ---
 title: "Gamification & Leaderboard Axioms"
 header:
-  image: /assets/helu.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  teaser: /assets/helu.jpg
+  image: /assets/images/Air-Canadas-Earn-Your-Wings-Leaderboard.png
+  caption: "Credit: [**Air Canada**]"
+  teaser: /assets/images/Air-Canadas-Earn-Your-Wings-Leaderboard.png
 last_modified_at: 2018-05-12
 tags: 
   - digital

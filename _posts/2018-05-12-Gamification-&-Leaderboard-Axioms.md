@@ -6,46 +6,36 @@ header:
   teaser: /assets/helu.jpg
 last_modified_at: 2018-05-12
 tags: 
-  - sample post
-  - readability
-  - test
+  - digital
+  - gamedesign
+  - games
+  - gamification
+  - leaderboards
+  - ProdMgmt
+  - productmanagement
+  - products
+  - tech
+  - technology
+  - userengagement
+  - userresearch
+  - ux
 ---
 
-This is a sample post with a large feature image[^1] up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+Breaking ice... Let's focus in relation with software products & applications
+Gamification is, applying the game design principles to non-game applications for enhancing user engagement, productivity, quick learning & user gathering, socializing.
+Leaderboard is a scoreboard to show the status of players or competitors playing the game (not just the game in our context). Helps recognition of leaders (in multiple sections & areas).
+The axioms mentioned below are based on my multiple experiences with quite a lot of big, medium & small products (software & digital) into B2B & B2C space.
+- When starting up with a new product, gamification & leaderboards could become the most important factor for content generation (most important axiom), since it terrifically enhances user engagement, digital gathering & socializing.
+- Decide on achievement levels or thresholds (game levels, badges) wisely by keeping the users, extend & importance of the use of the product. Number of achievement levels should not be too high or too low nor they should be too tough or too easy to achieve.
+- In case of B2C, if the product has huge number of participating or active users; go with more number of levels (10 to 15) that don't require high efforts to climb the level ladder.
+- In case of B2B, go with few number of levels (4 to 5) that require mediocre efforts to climb the level ladder.
+- In case of product based on content, gamification can also help in authenticating the content & its quality (a good example could be StackOverflow).
+- Growth of a player or competitor should not be dependent on a linear process, since there could be few things in the process to be achieved for level upgradation that might not be preferred by quite some users & enforcing them could result in users loosing interest around use of product. Each user & its contribution is important for product looking at all the data points it could influence.
+- In case of B2C, if there is an specific area around which you need contribution from users that could potentially enhance the product; set some specific optional tasks around that thing/activity along with applicable rewards (more in case of a more boring activity but important for product) that interested users could pick.
+- Leaderboards are one of the ways to reward, recognize & encourage users to compete or simply use the product & generate more & more content on/for product/business.
+- In case of B2C, just having a good way of providing recognition to players, competitors & leaders could help probably because of the social impact & visibility that it creates.
+- In case of Enterprise product, it becomes essential to provide not just recognition but also some good, attractive & probably materialistic rewards & awards for continual support, engagement & interest revival of user towards product & its use.
+- Spread the word; provide an option for users to share their game status/progress/achievements with the world (other users/people on social mediums). Mediums could be different in case of B2C &, B2B or Enterprise space/product.
+> Conducting good amount of market, customer & user research is very important before deciding on key gamification & leaderboard rules for the game.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. *Ea fashion axe [Marfa cillum aliquip](#). Retro Bushwick keytar cliche.* Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
-
-## Cupidatat 90's lo-fi authentic try-hard
-
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. **[Terry Richardson](#) shabby chic +1**, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
-
-  * Sartorial hoodie
-  * Labore viral forage
-  * Tote bag selvage
-  * DIY exercitation et id ugh tumblr church-key
-
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
-
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
-
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
-
-[^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
+Above is one of a better examples of outlined gamification strategy I created while working over one of the products.

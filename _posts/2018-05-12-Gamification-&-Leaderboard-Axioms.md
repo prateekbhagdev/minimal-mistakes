@@ -1,9 +1,9 @@
 ---
 title: "Gamification & Leaderboard Axioms"
 header:
-  image: /assets/helu.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  teaser: /assets/helu.jpg
+  image: /assets/images/Air-Canadas-Earn-Your-Wings-Leaderboard.png
+  caption: "Credit: [**Air Canada**]"
+  teaser: /assets/images/Air-Canadas-Earn-Your-Wings-Leaderboard.png
 last_modified_at: 2018-05-12
 tags: 
   - digital
@@ -37,5 +37,9 @@ The axioms mentioned below are based on my multiple experiences with quite a lot
 - In case of Enterprise product, it becomes essential to provide not just recognition but also some good, attractive & probably materialistic rewards & awards for continual support, engagement & interest revival of user towards product & its use.
 - Spread the word; provide an option for users to share their game status/progress/achievements with the world (other users/people on social mediums). Mediums could be different in case of B2C &, B2B or Enterprise space/product.
 > Conducting good amount of market, customer & user research is very important before deciding on key gamification & leaderboard rules for the game.
-<img src="assets/images/gs.jpeg" alt="gamification strategy">
+
+<figure>
+	<a href="/assets/images/gs.jpeg"><img src="/assets/images/gs.jpeg"></a>
+	<figcaption><a href="/assets/images/gs.jpeg">Gamification Strategy</a></figcaption>
+</figure>
 Above is one of a better examples of outlined gamification strategy I created while working over one of the products.

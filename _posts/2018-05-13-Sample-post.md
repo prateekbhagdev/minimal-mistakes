@@ -3,7 +3,6 @@ title: "Sample post"
 header:
   image: /assets/helu.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  teaser: /assets/helu.jpg
 last_modified_at: 2018-05-14
 tags: 
   - sample post

@@ -25,6 +25,8 @@ gallery2:
     image_path: assets/images/g24.png
   - url: /assets/images/g25.png
     image_path: assets/images/g25.png
+  - url: /assets/images/g26.png
+    image_path: assets/images/g26.png
 ---
 <h2>About Florida Hospital</h2>
 Florida Hospital is an acute-care, not-for-profit healthcare organization based in Orlando, Florida. With 24 distinct hospital campuses from the east coast to the west coast of Central Florida, the organization is owned and operated by Adventist Health System, a part of the worldwide organization of the Seventh-day Adventist Church. Florida Hospital is ranked nationally in 8 adult specialties and is also high-performing in 4 adult specialties. The main purpose of the Florida Hospital group is medical emergencies and in-patient care.

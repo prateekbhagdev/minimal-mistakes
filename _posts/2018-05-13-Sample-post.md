@@ -1,7 +1,7 @@
 ---
 title: "Sample post"
 header:
-  image: /assets/images/unsplash-image-4.jpg
+  image: /assets/helu.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - sample post

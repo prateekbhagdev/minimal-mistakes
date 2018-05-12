@@ -127,6 +127,7 @@
 
 .page__hero {
   position: relative;
+  padding-top: 79px;
   margin-bottom: 2em;
   @include clearfix;
   -webkit-animation: $intro-transition;
@@ -183,7 +184,6 @@
 }
 
 .page__hero-image {
-  padding-top: 75px;
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;

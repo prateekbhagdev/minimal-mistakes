@@ -39,7 +39,7 @@ The axioms mentioned below are based on my multiple experiences with quite a lot
 > Conducting good amount of market, customer & user research is very important before deciding on key gamification & leaderboard rules for the game.
 
 <figure>
-	<a><img src="/assets/images/gs.jpeg"></a>
+	<a href="/assets/images/gs.jpeg"><img src="/assets/images/gs.jpeg"></a>
 	<figcaption><a title="Gamification Strategy">gamification strategy</a></figcaption>
 </figure>
 <figure>

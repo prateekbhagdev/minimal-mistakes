@@ -38,5 +38,9 @@ The axioms mentioned below are based on my multiple experiences with quite a lot
 - Spread the word; provide an option for users to share their game status/progress/achievements with the world (other users/people on social mediums). Mediums could be different in case of B2C &, B2B or Enterprise space/product.
 > Conducting good amount of market, customer & user research is very important before deciding on key gamification & leaderboard rules for the game.
 
+<figure>
+	<a><img src="/assets/images/gs.jpeg"></a>
+	<figcaption><a title="gamification strategy">gamification strategy</a>.</figcaption>
+</figure>
 <img src="/assets/images/gs.jpeg" alt="gamification strategy">
 Above is one of a better examples of outlined gamification strategy I created while working over one of the products.

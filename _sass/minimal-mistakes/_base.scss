@@ -215,12 +215,12 @@ figure {
   align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
-  padding-top: 79px;
-
+  
   img,
   iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
+    padding-top: 79px;
   }
 
   img {

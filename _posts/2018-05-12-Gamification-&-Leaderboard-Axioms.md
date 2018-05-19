@@ -1,5 +1,5 @@
 ---
-title: "Gamification and Leaderboard Axioms"
+title: "Gamification & Leaderboard Axioms"
 header:
   image: /assets/images/Air-Canadas-Earn-Your-Wings-Leaderboard.png
   caption: "Credit: [**Air Canada**]"

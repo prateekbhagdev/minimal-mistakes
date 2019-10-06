@@ -26,8 +26,11 @@ S.S.C. from Madhya Pradesh Board
 2004; G.S.C.S. Shahdol 
 
 <h3>Work Experience</h3>
+Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
+November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+
 Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
-January 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+January 2018 to October 2018, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
 
 Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
 November 2015 to December 2017, Product Management, Research & User Experience Analysis; Pune – India 

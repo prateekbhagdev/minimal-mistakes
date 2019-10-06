@@ -27,7 +27,7 @@ S.S.C. from Madhya Pradesh Board
 
 <h3>Work Experience</h3>
 Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
-November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India
 
 Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
 January 2018 to October 2018, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
